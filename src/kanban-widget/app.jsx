@@ -15,7 +15,9 @@ export const App = () => {
 						<button class="" aria-expanded="false">
 							Board
 						</button>
-						<span class=" tc-reveal" hidden={true}></span></span>
+						<span class=" tc-reveal" hidden={true}>
+						</span>
+					</span>
 				</div>
 				<div class={styles["header-user"]}>
 					<span class={styles["header-btn-icon"]}>
